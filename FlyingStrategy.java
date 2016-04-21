@@ -1,8 +1,8 @@
 package com.strategy.cn;
 
 /**
- * 策略接口，实现鸭子的飞行行为
- * @author Leonard
+ * 绛栫暐鎺ュ彛锛屽疄鐜伴腑瀛愮殑椋炶琛屼负
+ * @author luoluo
  *
  */
 public interface FlyingStrategy {
