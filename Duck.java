@@ -4,7 +4,7 @@ public abstract class Duck {
 	private FlyingStrategy flyingStrategy;
 
 	public void quack() {
-		System.out.println("限限限。。。");
+		System.out.println("ga ga ga ...");
 	}
 
 	public abstract void display();
